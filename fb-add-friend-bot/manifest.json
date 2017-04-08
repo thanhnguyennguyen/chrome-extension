@@ -5,6 +5,9 @@
   "description": "This extension helps to send friend requests to all people who like a post",
   "version": "1.0",
   "author": "NguyenNguyen",
+  "icons": { "16": "icon16.png",
+           "48": "icon.png",
+          "128": "icon128.png" },
   "background" : {
     "scripts" : ["background.js"],
     "persistent": false
